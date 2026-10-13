@@ -29,8 +29,9 @@ connection is required for sign-in and periodic verification.
 - First launch on a fresh Windows profile starts with an empty notebook.
 - Your own existing local notes are preserved when updating.
 - This version asks you to sign in again after restarting the application.
-- Windows WebView2 and .NET 9 are required. Install the applicable Microsoft
-  runtimes if the application cannot start on your test machine.
+- [Microsoft WebView2 Runtime](https://developer.microsoft.com/en-us/microsoft-edge/webview2)
+  and [.NET Desktop Runtime 9, Windows x64](https://dotnet.microsoft.com/en-us/download/dotnet/9.0)
+  are required. Install the desktop runtime, which includes the regular .NET runtime.
 - These initial test builds do not have an Authenticode code-signing certificate.
 - Work on copies of your mod files while testing. Report startup problems and
   tool errors to the project owner through the community Discord.
