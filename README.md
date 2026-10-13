@@ -1,4 +1,4 @@
-# SOATool — releases
+# SOATool - releases
 
 SOATool is a Windows modding toolkit for Ghost Recon Breakpoint.
 This repository distributes compiled test builds.
